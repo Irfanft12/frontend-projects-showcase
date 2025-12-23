@@ -31,3 +31,4 @@ A curated list of my deployed frontend projects built using
 Frontend Developer focused on building and deploying real-world applications.
 
 ![Ecommerce React](./ecommerce-react.png)
+![YouTube Clone](./youtube-clone.png)
