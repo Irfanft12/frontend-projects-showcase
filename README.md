@@ -8,7 +8,7 @@ A curated list of my deployed frontend projects built using
 
 | Project Name | Tech Stack | Live Demo | Source Code |
 |-------------|-----------|-----------|-------------|
-| Spotify Clone | React, API | [Live](https://ecommerce-shopper-irfan.netlify.app/) | https://github.com/Irfanft12/spotify-clone |
+| Spotify Clone | React, API | [Live](https://ecommerce-shopper-irfan.netlify.app/) | [Repo](https://github.com/Irfanft12/spotify-clone) |
 | React E-commerce | React, Context | Live | Repo |
 | YouTube Clone | React, API | Live | Repo |
 | Real Estate App | Next.js | Live | Repo |
