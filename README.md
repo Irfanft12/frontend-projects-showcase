@@ -30,4 +30,4 @@ A curated list of my deployed frontend projects built using
 
 Frontend Developer focused on building and deploying real-world applications.
 
-![Spotify Clone](./spotify.png)
+![Spotify Clone](./ecommerce-react.png)
