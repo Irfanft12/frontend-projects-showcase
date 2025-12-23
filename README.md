@@ -34,3 +34,4 @@ Frontend Developer focused on building and deploying real-world applications.
 ![YouTube Clone](./youtube-clone.png)
 ![Real Estate](./real-estate.png)
 ![Ecommerce Next](./ecommerce-next.png)
+![Admin Dashboard](./admin-dashboard.png)
